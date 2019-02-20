@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1516473015 source:c:\users\ola i michal\desktop\c++\bankomat zaaw\main.cpp
+	<iostream>
+	<windows.h>
+
+1541067417 source:g:\mija\informatyka\c++\bankomat zaaw\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+
